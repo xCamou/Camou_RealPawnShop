@@ -1,0 +1,84 @@
+{
+  "db_connected": "Datenbankverbindung erfolgreich hergestellt.",
+  "pawn_main_title": "Pfandleihhaus",
+  "pawn_talk": "Pfandleiher sprechen",
+  
+  "pawn_item": "Gegenstand verpfänden",
+  "pawn_item_desc": "Verwandle deine Wertsachen in schnelles Bargeld.",
+  "pawn_item_title": "Gegenstand verpfänden: %s",
+  
+  "pawn_vehicle": "Fahrzeug verpfänden",
+  "pawn_vehicle_desc": "Fahrzeuge in der Übergabezone beleihen.",
+  "pawn_vehicle_list": "Verfügbare Fahrzeuge",
+  
+  "pawn_recover": "Sachen abholen",
+  "pawn_recover_desc": "Löse deine hinterlegten Gegenstände wieder aus.",
+  
+  "pawn_shop": "Gebrauchtmarkt",
+  "pawn_shop_desc": "Stöbere in nicht abgeholten Pfandstücken.",
+  
+  "pawn_duration": "Dauer (Tage)",
+  "available_vehicles": "Verfügbare Fahrzeuge",
+  "no_veh_found": "Kein Fahrzeug gefunden",
+  "no_veh_found_desc": "Stelle ein Fahrzeug in die gelbe Zone!",
+  "vehicle_payout_desc": "Auszahlung: $%s | Max %s Tage",
+  
+  "item_owned_desc": "Du hast %sx | Wert pro Stück: $%s",
+  "item_pawn_title": "Gegenstand verpfänden: %s",
+  "import_veh": "Import",
+  "unknown_veh": "Unbekannt",
+  "item_amount": "Anzahl",
+  "item_not_allowed": "Diesen Gegenstand nehmen wir nicht.",
+  "not_enough_items": "Du hast nicht genug davon dabei!",
+  
+  "no_items": "Keine passenden Gegenstände dabei",
+  "no_contracts": "Du hast aktuell keine laufenden Verträge.",
+  "no_shop_items": "Aktuell keine Fahrzeuge/Items im Verkauf.",
+  
+  "price_label": "Preis",
+  "price_display": "Preis: **$%s**",
+  "expiry_label": "Ablauf",
+  "type_label": "Art",
+  "type_veh": "Fahrzeug",
+  "type_item": "Gegenstand",
+  "brand_label": "Marke",
+  "model_label": "Modell",
+  "amount_label": "Menge",
+  
+  "buyback_cost": "Rückkauf: $%s",
+  "buyback_success": "Gegenstand erfolgreich zurückgekauft!",
+  "buyback_desc": "Klicke hier, um diesen Gegenstand für $%s auszulösen.",
+  
+  "buy_cash": "Bar bezahlen",
+  "buy_cash_desc": "$%s mit Bargeld bezahlen",
+  "buy_card": "Mit Karte bezahlen",
+  "buy_card_desc": "$%s vom Konto abbuchen",
+  "buy_success": "Du hast %s für $%s per %s gekauft!",
+  
+  "payout_method": "Auszahlungsmethode",
+  "payout_cash": "Bargeld",
+  "payout_bank": "Banküberweisung",
+  
+  "pawn_success": "Erfolgreich verpfändet! $%s wurden per %s ausgezahlt.",
+  "pawn_success_spawn": "Fahrzeug wurde bereitgestellt!",
+  
+  "vehicle_preview": "Besichtigen",
+  "vehicle_preview_desc": "Kamerafahrt starten (Abbrechen mit ⌫)",
+  "preview_msg": "[⌫] Besichtigung beenden",
+  
+  "confirm_header": "Vertrag bestätigen",
+  "confirm_content": "Möchtest du %s für **$%s** (%s) für **%s Tage** verpfänden? \n\n Wenn du es nicht rechtzeitig abholst, geht es in den Verkauf!",
+  
+  "not_your_veh": "Das Fahrzeug gehört dir nicht!",
+  "sql_error": "Datenbank-Fehler aufgetreten.",
+  "legacy_warning": "Legacy-System: Gegenstand ohne Vertrag ausgehändigt.",
+  "no_contract_error": "Du benötigst einen gültigen Pfandvertrag!",
+  "no_money": "Du hast nicht genug Guthaben!",
+  "no_money_cash": "Du hast nicht genug Bargeld dabei!",
+  "not_available": "Gegenstand nicht mehr verfügbar!",
+  
+  "contract_label": "Pfandvertrag #",
+  "contract_type_veh": "Fahrzeug-Pfand",
+  "contract_type_item": "Gegenstands-Pfand",
+  "contract_desc": "**Gegenstand:** %s  \n**Kennzeichen:** %s  \n**Auszahlung:** %s  \n**Rückkauf:** $%s  \n**Frist:** %s"
+}

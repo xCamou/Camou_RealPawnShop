@@ -1,0 +1,84 @@
+{
+  "db_connected": "Database connection successfully established.",
+  "pawn_main_title": "Pawn Shop",
+  "pawn_talk": "Talk to Pawnbroker",
+  
+  "pawn_item": "Pawn Item",
+  "pawn_item_desc": "Turn your valuables into quick cash.",
+  "pawn_item_title": "Pawn object: %s",
+  
+  "pawn_vehicle": "Pawn Vehicle",
+  "pawn_vehicle_desc": "Pawn vehicles in the drop-off zone.",
+  "pawn_vehicle_list": "Available Vehicles",
+  
+  "pawn_recover": "Redeem Items",
+  "pawn_recover_desc": "Buy back your pawned items.",
+  
+  "pawn_shop": "Pre-owned Market",
+  "pawn_shop_desc": "Browse through unredeemed pawn pieces.",
+  
+  "pawn_duration": "Duration (Days)",
+  "available_vehicles": "Available Vehicles",
+  "no_veh_found": "No vehicle found",
+  "no_veh_found_desc": "Place a vehicle in the yellow zone!",
+  "vehicle_payout_desc": "Payout: $%s | Max %s days",
+  
+  "item_owned_desc": "You have %sx | Value per piece: $%s",
+  "item_pawn_title": "Pawn object: %s",
+  "import_veh": "Import",
+  "unknown_veh": "Unknown",
+  "item_amount": "Amount",
+  "item_not_allowed": "We do not accept this item.",
+  "not_enough_items": "You don't have enough of that!",
+  
+  "no_items": "No suitable items found",
+  "no_contracts": "You currently have no active contracts.",
+  "no_shop_items": "Currently no vehicles/items for sale.",
+  
+  "price_label": "Price",
+  "price_display": "Price: **$%s**",
+  "expiry_label": "Expiry",
+  "type_label": "Type",
+  "type_veh": "Vehicle",
+  "type_item": "Item",
+  "brand_label": "Brand",
+  "model_label": "Model",
+  "amount_label": "Quantity",
+  
+  "buyback_cost": "Buyback: $%s",
+  "buyback_success": "Item successfully bought back!",
+  "buyback_desc": "Click here to redeem this item for $%s.",
+  
+  "buy_cash": "Pay Cash",
+  "buy_cash_desc": "Pay $%s with cash",
+  "buy_card": "Pay with Card",
+  "buy_card_desc": "Deduct $%s from bank account",
+  "buy_success": "You bought %s for $%s via %s!",
+  
+  "payout_method": "Payout Method",
+  "payout_cash": "Cash",
+  "payout_bank": "Bank Transfer",
+  
+  "pawn_success": "Successfully pawned! $%s has been paid via %s.",
+  "pawn_success_spawn": "Vehicle has been provided!",
+  
+  "vehicle_preview": "Inspect",
+  "vehicle_preview_desc": "Start camera tour (Cancel with ⌫)",
+  "preview_msg": "[⌫] End Inspection",
+  
+  "confirm_header": "Confirm Contract",
+  "confirm_content": "Do you want to pawn %s for **$%s** (%s) for **%s days**? \n\n If not redeemed in time, it will be moved to public sale!",
+  
+  "not_your_veh": "This vehicle does not belong to you!",
+  "sql_error": "A database error occurred.",
+  "legacy_warning": "Legacy System: Item handed over without contract.",
+  "no_contract_error": "You need a valid pawn contract!",
+  "no_money": "You don't have enough funds!",
+  "no_money_cash": "You don't have enough cash on you!",
+  "not_available": "Item no longer available!",
+  
+  "contract_label": "Pawn Contract #",
+  "contract_type_veh": "Vehicle Pawn",
+  "contract_type_item": "Item Pawn",
+  "contract_desc": "**Object:** %s  \n**Plate:** %s  \n**Payout:** %s  \n**Buyback:** $%s  \n**Deadline:** %s"
+}
